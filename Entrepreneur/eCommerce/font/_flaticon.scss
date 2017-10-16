@@ -1,0 +1,99 @@
+    /*
+    Flaticon icon font: Flaticon
+    Creation date: 22/06/2016 15:46
+    */
+
+    @font-face {
+  font-family: "Flaticon";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+    .fi:before{
+        display: inline-block;
+  font-family: "Flaticon";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+    }
+
+    .flaticon-customer-service:before { content: "\f100"; }
+.flaticon-customer-service-1:before { content: "\f101"; }
+.flaticon-delivery-truck:before { content: "\f102"; }
+.flaticon-money:before { content: "\f103"; }
+.flaticon-online-shop:before { content: "\f104"; }
+.flaticon-online-shop-1:before { content: "\f105"; }
+.flaticon-online-shop-10:before { content: "\f106"; }
+.flaticon-online-shop-11:before { content: "\f107"; }
+.flaticon-online-shop-12:before { content: "\f108"; }
+.flaticon-online-shop-2:before { content: "\f109"; }
+.flaticon-online-shop-3:before { content: "\f10a"; }
+.flaticon-online-shop-4:before { content: "\f10b"; }
+.flaticon-online-shop-5:before { content: "\f10c"; }
+.flaticon-online-shop-6:before { content: "\f10d"; }
+.flaticon-online-shop-7:before { content: "\f10e"; }
+.flaticon-online-shop-8:before { content: "\f10f"; }
+.flaticon-online-shop-9:before { content: "\f110"; }
+.flaticon-payment-method:before { content: "\f111"; }
+.flaticon-payment-method-1:before { content: "\f112"; }
+.flaticon-payment-method-2:before { content: "\f113"; }
+.flaticon-payment-method-3:before { content: "\f114"; }
+.flaticon-profits:before { content: "\f115"; }
+.flaticon-qr-code:before { content: "\f116"; }
+.flaticon-route:before { content: "\f117"; }
+.flaticon-shipping:before { content: "\f118"; }
+.flaticon-shopping-bag:before { content: "\f119"; }
+.flaticon-smartphone:before { content: "\f11a"; }
+.flaticon-stats:before { content: "\f11b"; }
+.flaticon-tablet:before { content: "\f11c"; }
+.flaticon-tablet-1:before { content: "\f11d"; }
+    
+    $font-Flaticon-customer-service: "\f100";
+    $font-Flaticon-customer-service-1: "\f101";
+    $font-Flaticon-delivery-truck: "\f102";
+    $font-Flaticon-money: "\f103";
+    $font-Flaticon-online-shop: "\f104";
+    $font-Flaticon-online-shop-1: "\f105";
+    $font-Flaticon-online-shop-10: "\f106";
+    $font-Flaticon-online-shop-11: "\f107";
+    $font-Flaticon-online-shop-12: "\f108";
+    $font-Flaticon-online-shop-2: "\f109";
+    $font-Flaticon-online-shop-3: "\f10a";
+    $font-Flaticon-online-shop-4: "\f10b";
+    $font-Flaticon-online-shop-5: "\f10c";
+    $font-Flaticon-online-shop-6: "\f10d";
+    $font-Flaticon-online-shop-7: "\f10e";
+    $font-Flaticon-online-shop-8: "\f10f";
+    $font-Flaticon-online-shop-9: "\f110";
+    $font-Flaticon-payment-method: "\f111";
+    $font-Flaticon-payment-method-1: "\f112";
+    $font-Flaticon-payment-method-2: "\f113";
+    $font-Flaticon-payment-method-3: "\f114";
+    $font-Flaticon-profits: "\f115";
+    $font-Flaticon-qr-code: "\f116";
+    $font-Flaticon-route: "\f117";
+    $font-Flaticon-shipping: "\f118";
+    $font-Flaticon-shopping-bag: "\f119";
+    $font-Flaticon-smartphone: "\f11a";
+    $font-Flaticon-stats: "\f11b";
+    $font-Flaticon-tablet: "\f11c";
+    $font-Flaticon-tablet-1: "\f11d";
